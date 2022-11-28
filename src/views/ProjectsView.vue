@@ -14,10 +14,7 @@
               <a href="https://github.com/JunyiFeng2048/RacecarDemo">Race Car Demo</a>
             </h1>
             <div>
-              This websites code! It was a great fun project and I learned more than I thought. 
-              There's plenty of room for improvment too, which is great!
-              We were given 2 weeks to accomplish a website that had to meet various 
-              requirements using HTML, CSS, JavaScript and a form for user interraction. 
+              A demonstration of using AI algorithms to evolve cars to complete a race track.
             </div>
           </div>
         </div>
