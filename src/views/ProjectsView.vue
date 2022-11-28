@@ -9,7 +9,7 @@
       <div class="grid grid-cols-1 lg:grid-cols-3 lg:px-0 md:px-20 gap-4 lg:gap-8 justify-center">
         <div class="p-4 bg-gray-100 rounded-lg flex items-top">
           <div class="flex flex-col">
-            <img src="../assets/img/RCD.png" alt="rcd" class="h-36">
+            <img src="../assets/img/RCD.png" alt="race car" class="h-36">
             <h1 class="text-center text-2xl text-gray-600">Race Car Demo</h1>
             <div>
               This websites code! It was a great fun project and I learned more than I thought. 
@@ -21,7 +21,7 @@
         </div>
         <div class="p-4 bg-gray-100 rounded-lg flex items-top">
           <div class="flex flex-col">
-            <img src="../assets/img/IRC.png" alt="rcd" class="h-36">
+            <img src="../assets/img/IRC.png" alt="IRC" class="h-36">
             <h1 class="text-center text-2xl text-gray-600">IRC Chat</h1>
             <div>
               A simple Internet Relay Chat(IRC) protocol by which clients can communicate 
@@ -32,7 +32,7 @@
         </div>
         <div class="p-4 bg-gray-100 rounded-lg flex items-top ">
           <div class="flex flex-col ">
-            <img src="../assets/img/NLP.png" alt="rcd" class="h-36">
+            <img src="../assets/img/NLP.png" alt="URMP" class="h-36">
             <h1 class="text-center text-2xl text-gray-600">NLP URMP</h1>
             <div>
               Undergraduate Research & Mentoring Program at Portland State University. 

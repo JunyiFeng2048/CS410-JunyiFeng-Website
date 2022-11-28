@@ -7,8 +7,8 @@
           <h1 class="text-4xl font-medium">Junyi Feng</h1>
           <p>Portland State University</p>
           <div class="flex mt-2 mb-2">
-            <a href="https://github.com/JunyiFeng2048"><img src="../assets/img/github.svg" alt="" class="w-6 mr-2"></a>
-            <a href="mailto: jfeng@pdx.edu"><img src="../assets/img/gmail.svg" alt="" class="w-6 mr-2"></a>
+            <a href="https://github.com/JunyiFeng2048"><img src="../assets/img/github.svg" alt="github" class="w-6 mr-2"></a>
+            <a href="mailto: jfeng@pdx.edu"><img src="../assets/img/gmail.svg" alt="email" class="w-6 mr-2"></a>
             <a href="https://linkedin.com/in/junyi-feng-7491b7258"><img src="../assets/img/linkedin.svg" alt="linkedin" class="w-6 mr-2"></a> 
           </div>
           <p class="font-mono text-sm">jfeng@pdx.edu</p>
@@ -40,20 +40,5 @@
 </script>
 
 <style scoped>
-/*
-h1 {
-  font-weight: 500;
-  font-size: 2.6rem;
-  top: -10px;
-  text-align: center;
-}
-div {
-    font-weight: 300;
-    text-align: left;
-    padding-left: 300px;
-    padding-right: 300px;
-    font-size: large;
-}
 
-*/
 </style>
