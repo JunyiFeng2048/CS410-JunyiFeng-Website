@@ -1,6 +1,4 @@
 <script setup>
-//<div class="w-96 mx-auto" style="scroll-snap-type: x mandatory;">
-//<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 m-8">
 
 </script>
 
