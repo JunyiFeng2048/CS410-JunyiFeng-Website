@@ -42,4 +42,4 @@ npm run build
 - https://vuejs.org/guide/introduction.html
 
 # Deployment
-The site will be deployed at: https://junyifeng2048.github.io/CS410-JF-Website/
+The site will be deployed at: https://junyifeng2048.github.io/CS410-JunyiFeng-Website/
